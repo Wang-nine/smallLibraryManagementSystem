@@ -1,0 +1,10 @@
+D:\JavaProject\SSMtest\src\main\java\com\wang\controller\BookController.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\service\impl\BookServiceImpl.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\dao\BookDao.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\service\BookService.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\config\JdbcConfig.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\config\SpringConfig.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\domain\Book.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\config\MybatisConfig.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\config\SpringMvcConfig.java
+D:\JavaProject\SSMtest\src\main\java\com\wang\config\ServletConfig.java
